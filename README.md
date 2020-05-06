@@ -8,8 +8,8 @@ Run with ```./raw-opengl```
 
 ## Correct output from radeon
 
-[!radeon](images/correct-radeon.png)
+![radeon](images/correct-radeon.png)
 
 ## Incorrect output from etnaviv
 
-[!etnaviv gc7000l](images/incorrect-etnaviv.png)
+![etnaviv gc7000l](images/incorrect-etnaviv.png)
